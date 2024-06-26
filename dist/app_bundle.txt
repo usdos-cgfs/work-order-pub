@@ -55,19 +55,12 @@
 <!-- Knockout -->
 <script src="/sites/CGFS/Style Library/apps/wo/lib/knockout/knockout-3.5.1.js"></script>
 
-<!-- <link href="/sites/CGFS/Style Library/apps/wo/dist/app.css" rel="stylesheet" /> -->
 <link
   href="https://cdn.jsdelivr.net/gh/usdos-cgfs/work-order-pub@main/dist/app.css"
   rel="stylesheet"
 />
 
 <div id="app"></div>
-
-<!-- <script
-  defer
-  type="module"
-  src="/sites/CGFS/Style Library/apps/wo/dist/app.js"
-></script> -->
 
 <script
   defer
